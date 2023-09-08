@@ -195,6 +195,7 @@ git push origin feature/your-feature
 |	|-utils/
 |	|	|-example-utils.ts
 |	|-App.tsx
+|	|-AppRouting.tsx
 |	|-index.scss
 |	|-index.tsx
 ```

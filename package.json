@@ -17,12 +17,13 @@
     "prepare": "husky install"
   },
   "lint-staged": {
-    "*.{js,css,scss,html,tsx,jsx}": "npm run format",
+    "*.{js,ts,css,scss,html,tsx,jsx}": "npm run format",
     "*.{js,jsx,ts,tsx}": "npm run lint",
     "*.{css,scss}": "npm run style"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
+    "axios": "^1.5.0",
     "dotenv": "^16.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

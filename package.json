@@ -10,6 +10,7 @@
     "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "deploy:force": "gh-pages -d build -f",
     "lint": "eslint . --ignore-path .gitignore",
     "style": "stylelint src/**/*.scss --ignore-path .gitignore",
     "format": "prettier --write . --ignore-path .gitignore --ignore-path .prettierignore",

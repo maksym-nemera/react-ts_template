@@ -1,8 +1,8 @@
-# [Example React App](https://maksym-nemera.github.io/<your-repository>/)
+# [Example React App](https://maksym-nemera.github.io/<your-repository>/#/)
 
 This repository contains the source code and assets for the **Example React App** project.
 
-You may try it on this page: [CLICK ME](https://maksym-nemera.github.io/<your-repository>/)
+You may try it on this page: [CLICK ME](https://maksym-nemera.github.io/<your-repository>/#/)
 
 ## Navigation:
 
@@ -25,7 +25,7 @@ You may try it on this page: [CLICK ME](https://maksym-nemera.github.io/<your-re
 
 This [repository](https://github.com/maksym-nemera/react-ts_template) contains the template code and assets for the **React App** projects.
 
-You may try it on this page: [CLICK ME](https://maksym-nemera.github.io/react-ts_template/)
+You may try it on this page: [CLICK ME](https://maksym-nemera.github.io/react-ts_template/#/)
 
 ### <a id="description-template">Description:</a>
 

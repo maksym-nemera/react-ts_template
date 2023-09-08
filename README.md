@@ -146,6 +146,10 @@ git push origin feature/your-feature
         <td>Deploy the project</td>
     </tr>
     <tr>
+        <td><code>npm run deploy:force</code></td>
+        <td>Force deploy the project</td>
+    </tr>
+    <tr>
         <td><code>npm run lint</code></td>
         <td>Check .TSX files</td>
     </tr>
